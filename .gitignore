@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Database / File rahasia
+*.db
+*.sqlite
+__pycache__/
+.env
+
+# Cache streamlit
+.streamlit/

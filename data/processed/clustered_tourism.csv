@@ -1,0 +1,11 @@
+Negara_Asal,Jumlah_Wisatawan,Rata_Pengeluaran_USD,Cluster_ID,Kategori_Pariwisata
+Amerika Serikat,210742.6,1607.118,0,High-Value Tourists (Pengeluaran Tinggi)
+Australia,219928.4,1551.758,0,High-Value Tourists (Pengeluaran Tinggi)
+China,135356.2,1278.804,1,Budget Tourists
+India,269628.2,1504.4940000000001,0,High-Value Tourists (Pengeluaran Tinggi)
+Jepang,191108.6,1450.3780000000002,0,High-Value Tourists (Pengeluaran Tinggi)
+Jerman,296236.4,1439.15,2,Mass Tourism (Jumlah Wisatawan Banyak)
+Korea Selatan,138480.8,1137.218,1,Budget Tourists
+Malaysia,192966.4,1182.788,1,Budget Tourists
+Singapura,169159.2,1454.712,0,High-Value Tourists (Pengeluaran Tinggi)
+Thailand,313687.0,1163.4720000000002,2,Mass Tourism (Jumlah Wisatawan Banyak)
